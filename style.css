@@ -111,3 +111,7 @@ body {
   background-color: #c4f82a;
   color: #000000;
 }
+
+.card__bio__job {
+  text-align: center;
+}
